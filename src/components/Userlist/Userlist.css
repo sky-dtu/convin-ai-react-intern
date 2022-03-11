@@ -1,0 +1,4 @@
+.userswitch-btn:focus {
+    background-color: greenyellow !important;
+    color: blue;
+}
